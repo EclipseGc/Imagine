@@ -94,7 +94,7 @@ projects[context_admin][subdir] = contrib
 projects[context_admin][type] = module
 projects[context_admin][download][type] = git
 projects[context_admin][download][url] = git://github.com/EclipseGc/context-admin.git 
-projects[imagine][download][branch] = drupal-7--1-0
+projects[context_admin][download][branch] = drupal-7--1-0
 
 projects[draggableviews][subdir] = contrib
 projects[draggableviews][version] = 1.x-dev
