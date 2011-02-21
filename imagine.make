@@ -24,7 +24,7 @@ projects[references][subdir] = contrib
 projects[references][type] = module
 projects[references][version] = 2.x-dev
 ;1046886
-projects[references][patch][] = "http://drupal.org/files/issues/references_views_filter.patch"
+;projects[references][patch][] = "http://drupal.org/files/issues/references_views_filter.patch"
 
 projects[panels][subdir] = contrib
 projects[panels][type] = module
@@ -93,7 +93,8 @@ projects[xmlsitemap][version] = 2.x-dev
 projects[context_admin][subdir] = contrib
 projects[context_admin][type] = module
 projects[context_admin][download][type] = git
-projects[context_admin][download][url] = git@commerceguys.unfuddle.com:commerceguys/context-admin.git
+projects[context_admin][download][url] = git://github.com/EclipseGc/context-admin.git 
+projects[imagine][download][branch] = drupal-7--1-0
 
 projects[draggableviews][subdir] = contrib
 projects[draggableviews][version] = 1.x-dev
