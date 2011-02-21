@@ -1,0 +1,47 @@
+; $Id$
+name = Imagine
+description = A specialized install profile for building image based communities.
+core = 7.x
+
+dependencies[] = block
+dependencies[] = contextual
+dependencies[] = help
+dependencies[] = image
+dependencies[] = menu
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = shortcut
+dependencies[] = overlay
+dependencies[] = field_ui
+dependencies[] = file
+dependencies[] = rdf
+dependencies[] = list
+dependencies[] = number
+dependencies[] = options
+dependencies[] = toolbar
+
+; Install contributed modules.
+dependencies[] = libraries
+dependencies[] = views
+dependencies[] = views_ui
+dependencies[] = strongarm
+dependencies[] = features
+dependencies[] = ctools
+dependencies[] = context
+dependencies[] = context_ui
+dependencies[] = link
+dependencies[] = page_manager
+dependencies[] = panels
+dependencies[] = panels_mini
+dependencies[] = views_content
+dependencies[] = views_slideshow
+dependencies[] = views_slideshow_cycle
+dependencies[] = token
+dependencies[] = pathauto
+dependencies[] = field_group
+dependencies[] = media
+dependencies[] = media_youtube
+dependencies[] = context_admin
+dependencies[] = ckeditor
+
