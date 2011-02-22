@@ -26,9 +26,17 @@ projects[strongarm][version] = 2.0-beta2
 projects[context][subdir] = contrib
 projects[context][version] = 3.0-alpha3
 
+projects[advanced_help][subdir] = contrib
+projects[advanced_help][type] = module
+projects[advanced_help][version] = 1.x-dev
+
 projects[views][subdir] = contrib
 projects[views][type] = module
 projects[views][version] = 3.x-dev
+
+projects[views_bulk_operations][subdir] = contrib
+projects[views_bulk_operations][type] = module
+projects[views_bulk_operations][version] = 3.x-dev
 
 projects[link][subdir] = contrib
 projects[link][type] = module

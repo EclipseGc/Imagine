@@ -22,9 +22,11 @@ dependencies[] = options
 dependencies[] = toolbar
 
 ; Install contributed modules.
+dependencies[] = advanced_help
 dependencies[] = libraries
 dependencies[] = views
 dependencies[] = views_ui
+dependencies[] = views_bulk_operations
 dependencies[] = strongarm
 dependencies[] = features
 dependencies[] = ctools
