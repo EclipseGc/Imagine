@@ -64,6 +64,9 @@ projects[token][version] = 1
 projects[views_slideshow][subdir] = contrib
 projects[views_slideshow][version] = 3
 
+projects[styles][subdir] = contrib
+projects[styles][version] = 2.0-alpha5
+
 projects[media][subdir] = contrib
 projects[media][version] = 1.0-beta3
 projects[media][patch][] = "http://drupal.org/files/issues/1058098_1.patch"
