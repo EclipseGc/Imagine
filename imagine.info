@@ -39,6 +39,7 @@ dependencies[] = views_slideshow
 dependencies[] = views_slideshow_cycle
 dependencies[] = token
 dependencies[] = pathauto
+dependencies[] = entity
 dependencies[] = styles
 dependencies[] = file_styles
 dependencies[] = field_group

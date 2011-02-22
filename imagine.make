@@ -77,6 +77,9 @@ projects[media_youtube][version] = 1.0-alpha4
 projects[libraries][subdir] = contrib
 projects[libraries][version] = 1.x-dev
 
+projects[entity][subdir] = contrib
+projects[entity][version] = 1.x-dev
+
 projects[xmlsitemap][subdir] = contrib
 projects[xmlsitemap][version] = 2.x-dev
 
