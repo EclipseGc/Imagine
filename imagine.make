@@ -3,22 +3,9 @@ core = 7.x
 
 projects[ctools][subdir] = contrib
 projects[ctools][type] = module
-projects[ctools][version] = 1.x-dev
-projects[ctools][patch][] = "http://drupal.org/files/issues/1034546_3.patch"
-projects[ctools][patch][] = "http://drupal.org/files/issues/1019642.patch"
-projects[ctools][patch][] = "http://drupal.org/files/issues/1032020.patch"
-projects[ctools][patch][] = "http://drupal.org/files/issues/1032026.patch"
-projects[ctools][patch][] = "http://drupal.org/files/issues/1033222.patch"
-projects[ctools][patch][] = "http://drupal.org/files/issues/1024576.patch"
-projects[ctools][patch][] = "http://drupal.org/files/issues/1016510_1.patch"
-projects[ctools][patch][] = "http://drupal.org/files/issues/1047938_1.patch"
-projects[ctools][patch][] = "http://drupal.org/files/issues/1047946_1.patch"
-projects[ctools][patch][] = "http://drupal.org/files/issues/1047952_1.patch"
-projects[ctools][patch][] = "http://drupal.org/files/issues/1047976_1.patch"
-projects[ctools][patch][] = "http://drupal.org/files/issues/1048004_1.patch"
-projects[ctools][patch][] = "http://drupal.org/files/issues/1046074.patch"
-projects[ctools][patch][] = "http://drupal.org/files/issues/1058132.patch"
-projects[ctools][patch][] = "http://drupal.org/files/issues/1066074.patch"
+projects[ctools][download][type] = git
+projects[ctools][download][url] = http://git.drupal.org/sandbox/eclipsegc/1073402.git
+projects[ctools][download][branch] = merged-master
 
 projects[references][subdir] = contrib
 projects[references][type] = module
