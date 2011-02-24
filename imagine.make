@@ -5,7 +5,7 @@ projects[ctools][subdir] = contrib
 projects[ctools][type] = module
 projects[ctools][download][type] = git
 projects[ctools][download][url] = http://git.drupal.org/sandbox/eclipsegc/1073402.git
-projects[ctools][download][branch] = merged-master
+projects[ctools][download][branch] = 1079320
 
 projects[references][subdir] = contrib
 projects[references][type] = module
@@ -32,7 +32,9 @@ projects[advanced_help][version] = 1.x-dev
 
 projects[views][subdir] = contrib
 projects[views][type] = module
-projects[views][version] = 3.x-dev
+projects[views][download][type] = git
+projects[views][download][url] = http://git.drupal.org/project/views.git
+projects[views][download][branch] = d7v3ui
 
 projects[views_bulk_operations][subdir] = contrib
 projects[views_bulk_operations][type] = module
