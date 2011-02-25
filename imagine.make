@@ -5,7 +5,7 @@ projects[ctools][subdir] = contrib
 projects[ctools][type] = module
 projects[ctools][download][type] = git
 projects[ctools][download][url] = http://git.drupal.org/sandbox/eclipsegc/1073402.git
-projects[ctools][download][branch] = 1079320
+projects[ctools][download][branch] = 1079320_2
 
 projects[references][subdir] = contrib
 projects[references][type] = module
