@@ -4,8 +4,8 @@ core = 7.x
 projects[ctools][subdir] = contrib
 projects[ctools][type] = module
 projects[ctools][download][type] = git
-projects[ctools][download][url] = http://git.drupal.org/sandbox/eclipsegc/1073402.git
-projects[ctools][download][branch] = 1079320_2
+projects[ctools][download][url] = http://git.drupal.org/project/ctools.git
+projects[ctools][download][branch] = 7.x-1.x
 
 projects[references][subdir] = contrib
 projects[references][type] = module
@@ -34,7 +34,7 @@ projects[views][subdir] = contrib
 projects[views][type] = module
 projects[views][download][type] = git
 projects[views][download][url] = http://git.drupal.org/project/views.git
-projects[views][download][branch] = d7v3ui
+projects[views][download][branch] = 7.x-1.x
 
 projects[views_bulk_operations][subdir] = contrib
 projects[views_bulk_operations][type] = module
@@ -96,8 +96,8 @@ projects[xmlsitemap][version] = 2.x-dev
 projects[context_admin][subdir] = contrib
 projects[context_admin][type] = module
 projects[context_admin][download][type] = git
-projects[context_admin][download][url] = git://github.com/EclipseGc/context-admin.git 
-projects[context_admin][download][branch] = drupal-7--1-0
+projects[context_admin][download][url] = http://git.drupal.org/project/context_admin.git
+projects[context_admin][download][branch] = 7.x-1.x
 
 projects[draggableviews][subdir] = contrib
 projects[draggableviews][version] = 1.x-dev
