@@ -34,7 +34,7 @@ projects[views][subdir] = contrib
 projects[views][type] = module
 projects[views][download][type] = git
 projects[views][download][url] = http://git.drupal.org/project/views.git
-projects[views][download][branch] = 7.x-1.x
+projects[views][download][branch] = 7.x-3.x
 
 projects[views_bulk_operations][subdir] = contrib
 projects[views_bulk_operations][type] = module
