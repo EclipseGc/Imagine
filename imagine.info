@@ -10,6 +10,7 @@ dependencies[] = image
 dependencies[] = menu
 dependencies[] = path
 dependencies[] = taxonomy
+dependencies[] = forum
 dependencies[] = dblog
 dependencies[] = shortcut
 dependencies[] = overlay

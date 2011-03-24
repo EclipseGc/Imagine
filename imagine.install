@@ -93,20 +93,15 @@ function imagine_install() {
     ->condition('name', 'seven')
     ->execute();
   db_update('system')
-  ->fields(array('status' => 1))
-  ->condition('type', 'theme')
-  ->condition('name', 'fusion_core')
-  ->execute();
-  db_update('system')
-  ->fields(array('status' => 1))
-  ->condition('type', 'theme')
-  ->condition('name', 'pandora')
-  ->execute();
+    ->fields(array('status' => 1))
+    ->condition('type', 'theme')
+    ->condition('name', 'bartik')
+    ->execute();
   variable_set('admin_theme', 'seven');
   variable_set('node_admin_theme', '1');
   
   // Set the default theme to Bartik.
-  variable_set('theme_default', 'pandora');
+  variable_set('theme_default', 'bartik');
 
   // Disable the Advanced Help module nag message until it's production ready.
   variable_set('views_hide_help_message', TRUE);
