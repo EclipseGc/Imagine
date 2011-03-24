@@ -10,5 +10,5 @@ projects[drupal][version] = "7"
 
 projects[imagine][type] = profile
 projects[imagine][download][type] = git
-projects[imagine][download][url] = git@github.com:EclipseGc/Imagine.git
+projects[imagine][download][url] = git://github.com/EclipseGc/Imagine.git
 projects[imagine][download][branch] = master
