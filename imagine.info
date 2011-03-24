@@ -50,4 +50,5 @@ dependencies[] = media
 dependencies[] = media_youtube
 dependencies[] = context_admin
 dependencies[] = ckeditor
+dependencies[] = mollom
 

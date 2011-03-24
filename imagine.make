@@ -20,6 +20,9 @@ projects[panels][version] = 3.x-dev
 projects[features][subdir] = contrib
 projects[features][version] = 1.x-dev
 
+projects[mollom][subdir] = contrib
+projects[mollom][version] = 1.0
+
 projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0-beta2
 
