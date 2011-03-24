@@ -20,6 +20,9 @@ projects[panels][version] = 3.x-dev
 projects[features][subdir] = contrib
 projects[features][version] = 1.x-dev
 
+projects[privatemsg][subdir] = contrib
+projects[privatemsg][version] = 1.1
+
 projects[mollom][subdir] = contrib
 projects[mollom][version] = 1.0
 
@@ -118,4 +121,17 @@ projects[quicktabs][version] = 2.x-dev
 libraries[SolrPhpClient][download][type] = "get"
 libraries[SolrPhpClient][download][url] = "http://solr-php-client.googlecode.com/files/SolrPhpClient.r22.2009-11-09.tgz"
 libraries[SolrPhpClient][destination] = "modules/contrib/search_api_solr"
+
+;Features
+
+
+projects[imagine_configuration][subdir] = features
+projects[imagine_configuration][type] = module
+projects[imagine_configuration][download][type] = git
+projects[imagine_configuration][download][url] = git://github.com/EclipseGc/Imagine-Configuration.git
+
+projects[imagine_gallery][subdir] = features
+projects[imagine_gallery][type] = module
+projects[imagine_gallery][download][type] = git
+projects[imagine_gallery][download][url] = git://github.com/EclipseGc/Imagine-Gallery.git
 
