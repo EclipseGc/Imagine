@@ -59,9 +59,7 @@ libraries[ckeditor][destination] = "../../sites/all/libraries"
 
 projects[search_api][subdir] = contrib
 projects[search_api][type] = module
-projects[search_api][download][type] = git
-projects[search_api][download][url] = git://git.drupalcode.org/project/search_api.git
-projects[search_api][download][branch] = 7.x-1.x
+projects[search_api][version] = 1.x-dev
 
 projects[search_api_solr][subdir] = contrib
 projects[search_api_solr][type] = module
