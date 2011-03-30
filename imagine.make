@@ -136,3 +136,8 @@ projects[imagine_gallery][type] = module
 projects[imagine_gallery][download][type] = git
 projects[imagine_gallery][download][url] = git://github.com/EclipseGc/Imagine-Gallery.git
 
+projects[imagine_news][subdir] = features
+projects[imagine_news][type] = module
+projects[imagine_news][download][type] = git
+projects[imagine_news][download][url] = git://github.com/EclipseGc/Imagine-News.git
+

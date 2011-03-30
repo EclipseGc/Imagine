@@ -56,3 +56,4 @@ dependencies[] = mollom
 ; Install features
 dependencies[] = imagine_configuration
 dependencies[] = imagine_gallery
+dependencies[] = imagine_news
