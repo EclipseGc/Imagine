@@ -30,14 +30,14 @@ projects[mollom][subdir] = contrib
 projects[mollom][version] = 1.0
 
 projects[strongarm][subdir] = contrib
-projects[strongarm][version] = 2.0-beta2
+projects[strongarm][version] = 2.0-beta4
 
 projects[context][subdir] = contrib
-projects[context][version] = 3.0-alpha3
+projects[context][version] = 3.0-beta2
 
 projects[advanced_help][subdir] = contrib
 projects[advanced_help][type] = module
-projects[advanced_help][version] = 1.x-dev
+projects[advanced_help][version] = 1.0
 
 projects[views][subdir] = contrib
 projects[views][type] = module
@@ -47,14 +47,14 @@ projects[views][download][branch] = 7.x-3.x
 
 projects[views_bulk_operations][subdir] = contrib
 projects[views_bulk_operations][type] = module
-projects[views_bulk_operations][version] = 3.x-dev
+projects[views_bulk_operations][version] = 3.0-beta3
 
 projects[link][subdir] = contrib
 projects[link][type] = module
-projects[link][version] = 1.0-alpha3
+projects[link][version] = 1.0
 
 projects[ckeditor][subdir] = contrib
-projects[ckeditor][version] = 1.0
+projects[ckeditor][version] = 1.6
 libraries[ckeditor][download][type] = get
 libraries[ckeditor][download][url] = http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.5/ckeditor_3.5.tar.gz
 libraries[ckeditor][directory_name] = ckeditor
@@ -82,14 +82,14 @@ projects[views_slideshow][subdir] = contrib
 projects[views_slideshow][version] = 3
 
 projects[styles][subdir] = contrib
-projects[styles][version] = 2.0-alpha5
+projects[styles][version] = 2.0-alpha8
 
 projects[media][subdir] = contrib
-projects[media][version] = 1.0-beta3
+projects[media][version] = 1.0-rc2
 projects[media][patch][] = "http://drupal.org/files/issues/1058098_1.patch"
 
 projects[media_youtube][subdir] = contrib
-projects[media_youtube][version] = 1.0-alpha4
+projects[media_youtube][version] = 1.0-alpha5
 
 projects[libraries][subdir] = contrib
 projects[libraries][version] = 1.x-dev
