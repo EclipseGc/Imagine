@@ -4,9 +4,7 @@
 
 api = 2
 core = 7.x
-
-projects[drupal][type] = core
-projects[drupal][version] = "7.31"
+projects[] = drupal
 
 projects[imagine][type] = profile
 projects[imagine][download][type] = git
