@@ -32,8 +32,6 @@ dependencies[] = views_bulk_operations
 dependencies[] = strongarm
 dependencies[] = features
 dependencies[] = ctools
-dependencies[] = context
-dependencies[] = context_ui
 dependencies[] = link
 dependencies[] = page_manager
 dependencies[] = panels
@@ -52,6 +50,7 @@ dependencies[] = media_youtube
 dependencies[] = context_admin
 dependencies[] = ckeditor
 dependencies[] = mollom
+dependencies[] = privatemsg
 
 ; Install features
 dependencies[] = imagine_configuration
