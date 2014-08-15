@@ -4,6 +4,7 @@ description = A specialized install profile for building image based communities
 core = 7.x
 
 dependencies[] = block
+dependencies[] = blog
 dependencies[] = contextual
 dependencies[] = help
 dependencies[] = image
@@ -53,6 +54,7 @@ dependencies[] = mollom
 dependencies[] = privatemsg
 
 ; Install features
+dependencies[] = imagine_blog
 dependencies[] = imagine_configuration
 dependencies[] = imagine_gallery
 dependencies[] = imagine_news

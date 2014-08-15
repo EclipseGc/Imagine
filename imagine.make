@@ -99,6 +99,11 @@ libraries[SolrPhpClient][destination] = "modules/contrib/search_api_solr"
 
 ;Features
 
+projects[imagine_blog][subdir] = features
+projects[imagine_blog][type] = module
+projects[imagine_blog][download][type] = git
+projects[imagine_blog][download][url] = git://github.com/EclipseGc/Imagine-Blog.git
+
 projects[imagine_configuration][subdir] = features
 projects[imagine_configuration][type] = module
 projects[imagine_configuration][download][type] = git
