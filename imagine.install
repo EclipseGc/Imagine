@@ -107,7 +107,7 @@ function imagine_install() {
   variable_set('views_hide_help_message', TRUE);
   
   // Adding the front page to the site default home page
-  variable_set('site_frontpage', 'front');
+  variable_set('site_frontpage', 'user');
   
   // Enable some standard blocks.
   $default_theme = variable_get('theme_default', 'pandora');
