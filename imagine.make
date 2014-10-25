@@ -21,7 +21,7 @@ projects[privatemsg][subdir] = contrib
 projects[privatemsg][version] = 2.x-dev
 
 projects[mollom][subdir] = contrib
-projects[mollom][version] = 2.10
+projects[mollom][version] = 2.12
 
 projects[strongarm][subdir] = contrib
 projects[strongarm][version] = 2.0
@@ -40,10 +40,10 @@ projects[views_bulk_operations][version] = 3.2
 
 projects[link][subdir] = contrib
 projects[link][type] = module
-projects[link][version] = 1.2
+projects[link][version] = 1.3
 
 projects[ckeditor][subdir] = contrib
-projects[ckeditor][version] = 1.15
+projects[ckeditor][version] = 1.16
 
 projects[search_api][subdir] = contrib
 projects[search_api][type] = module
