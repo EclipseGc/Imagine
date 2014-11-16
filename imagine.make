@@ -8,7 +8,7 @@ projects[ctools][download][url] = http://git.drupal.org/project/ctools.git
 projects[ctools][download][branch] = 7.x-1.x
 projects[ctools][patch][] = "http://drupal.org/files/page-manager-admin-paths_1.patch"
 ;projects[ctools][patch][] = "http://drupal.org/files/entity-child-plugin.patch"
-;projects[ctools][patch][] = "http://drupal.org/files/empty-context.patch"
+projects[ctools][patch][] = "https://www.drupal.org/files/1276000-6.patch"
 
 projects[panels][subdir] = contrib
 projects[panels][type] = module
