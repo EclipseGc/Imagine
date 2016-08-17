@@ -12,10 +12,10 @@ projects[ctools][patch][] = "https://www.drupal.org/files/1276000-6.patch"
 
 projects[panels][subdir] = contrib
 projects[panels][type] = module
-projects[panels][version] = 3.4
+projects[panels][version] = 3.6
 
 projects[features][subdir] = contrib
-projects[features][version] = 2.2
+projects[features][version] = 2.10
 
 projects[privatemsg][subdir] = contrib
 projects[privatemsg][version] = 2.x-dev
@@ -32,11 +32,11 @@ projects[advanced_help][version] = 1.1
 
 projects[views][subdir] = contrib
 projects[views][type] = module
-projects[views][version] = 3.8
+projects[views][version] = 3.14
 
 projects[views_bulk_operations][subdir] = contrib
 projects[views_bulk_operations][type] = module
-projects[views_bulk_operations][version] = 3.2
+projects[views_bulk_operations][version] = 3.3
 
 projects[link][subdir] = contrib
 projects[link][type] = module
@@ -55,7 +55,7 @@ projects[search_api_solr][version] = 1.x-dev
 
 projects[field_group][subdir] = contrib
 projects[field_group][type] = module
-projects[field_group][version] = 1.4
+projects[field_group][version] = 1.5
 
 projects[pathauto][subdir] = contrib
 projects[pathauto][version] = 1.2
@@ -73,13 +73,16 @@ projects[media][subdir] = contrib
 projects[media][version] = 1.4
 
 projects[media_youtube][subdir] = contrib
-projects[media_youtube][version] = 2.0-rc4
+projects[media_youtube][version] = 3.0
+
+projects[google_analytics][subdir] = contrib
+projects[google_analytics][version] = 2.3
 
 projects[libraries][subdir] = contrib
 projects[libraries][version] = 2.2
 
 projects[entity][subdir] = contrib
-projects[entity][version] = 1.5
+projects[entity][version] = 1.7
 
 projects[context_admin][subdir] = contrib
 projects[context_admin][type] = module
